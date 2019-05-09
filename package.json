@@ -65,7 +65,7 @@
     "react-native-ui-lib": "3.24.2",
     "handlebars": "4.x.x",
     "jest": "24.0.0-alpha.6",
-    "jsc-android": "git+https://github.com/Kudo/jsc-android-buildscripts.git#develop",
+    "jsc-android": "225067.x.x",
     "metro-react-native-babel-preset": "0.52.x",
     "react": "16.8.3",
     "react-native": "0.59.5",
